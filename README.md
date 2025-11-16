@@ -15,21 +15,16 @@ A lightweight, web-based system monitoring dashboard built with Flask and psutil
     Clone the repo: 
     git clone https://github.com/sadra-psnd/system-dashboard-py.git
     cd system-dashboard-py
- 
- 
-
-    Install dependencies: 
-
     pip install -r requirements.txt
- 
- 
 
+ 
 Run the dashboard: 
 
     python app.py
     
     Open your browser and visit: http://localhost:5000 
      
+
 
 
 
