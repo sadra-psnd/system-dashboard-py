@@ -1,6 +1,7 @@
 System Dashboard (Python) 
 
 A lightweight, web-based system monitoring dashboard built with Flask and psutil. Track CPU, memory, disk, and network usage in real time—all from your browser. 
+
 ✨ Features 
 
     Real-time system metrics
@@ -12,37 +13,23 @@ A lightweight, web-based system monitoring dashboard built with Flask and psutil
 🚀 Quick Start 
 
     Clone the repo: 
-    bash
-     
-
- 
-1
-2
-git clone https://github.com/sadra-psnd/system-dashboard-py.git
-cd system-dashboard-py
+    git clone https://github.com/sadra-psnd/system-dashboard-py.git
+    cd system-dashboard-py
  
  
 
-Install dependencies: 
-bash
- 
- 
-1
-pip install -r requirements.txt
+    Install dependencies: 
+
+    pip install -r requirements.txt
  
  
 
 Run the dashboard: 
-bash
- 
 
-     
-    1
     python app.py
-     
-     
-
+    
     Open your browser and visit: http://localhost:5000 
      
+
 
 
